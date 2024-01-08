@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ana Flávia - Backend Developer Jr
+- 👋 Hi, I’m Ana Flávia - Backend Developer
 
 <!---
 AnaPicPay/AnaPicPay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
